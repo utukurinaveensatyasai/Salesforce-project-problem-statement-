@@ -1,78 +1,84 @@
-# Salesforce-project-problem-statement-
-This repo having Salesforce problem statement 
-#📌 Project Overview
+# Salesforce Project Problem Statement
 
-This project is part of the TCS LastMile Salesforce Program.
-It focuses on building a Healthcare Appointment & Case Management System on Salesforce to improve patient experience, streamline hospital operations, and showcase Salesforce capabilities like Service Cloud, Health Cloud, Automation, and Dashboards.
+This repository contains a Salesforce problem statement and solution implementation.
 
-#🎯 Problem Statement
+---
 
-Develop a Salesforce application that allows patients to book appointments, doctors to manage cases, and administrators to track hospital performance.
+## 📌 Project Overview
 
-#Key Features:
+This project is part of the **TCS LastMile Salesforce Program**.  
+It focuses on building a **Healthcare Appointment & Case Management System** on Salesforce to:
 
-Patient Management
+- Improve patient experience  
+- Streamline hospital operations  
+- Showcase Salesforce capabilities (Service Cloud, automation, and reporting)  
 
-Register and update profiles (personal details, medical history).
+---
 
-Secure login for appointment management.
+## 🎯 Problem Statement
 
-Appointment Scheduling
+**Develop a Salesforce application that enables:**
 
-Book appointments by date, time, and specialization.
+- Patients to book appointments  
+- Doctors to manage cases  
+- Administrators to track hospital performance  
 
-Auto-assign doctors based on availability and workload.
+---
 
-Case Management
+## ✨ Key Features
 
-Each appointment generates a case with diagnosis and treatment details.
+### Patient Management
 
-Doctors update records with progress notes and prescriptions.
+- Register and update profiles (personal details, medical history)
+- Secure login for appointment management
 
-Escalation rules for critical cases.
+### Appointment Scheduling
 
-Notifications & Communication
+- Book appointments by date, time, and specialization
+- Auto-assign doctors based on availability and workload
 
-Automated email/SMS reminders and confirmations.
+### Case Management
 
-Doctor notifications for assigned cases.
+- Each appointment generates a case with diagnosis and treatment details
+- Doctors update case records with progress notes and prescriptions
+- Escalation rules for critical cases
 
-Reports & Dashboards
+### Notifications & Communication
 
-Appointments per department/doctor.
+- Automated email/SMS reminders and confirmations
+- Doctor notifications for assigned cases
 
-Average resolution time.
+### Reports & Dashboards
 
-Patient satisfaction trends.
+- Appointments per department/doctor
+- Average resolution time
+- Patient satisfaction trends
+- Staff performance insights
 
-Staff performance insights.
+---
 
-#🛠️ Salesforce Features Used
+## 🛠️ Salesforce Features Used
 
-Custom Objects & Fields for patients, appointments, and cases.
+- **Custom Objects & Fields:** For patients, appointments, and cases
+- **Service Cloud / Health Cloud:** For case management
+- **Workflows, Process Builder, and Flow:** For automation
+- **Reports & Dashboards:** For hospital performance tracking
+- **Email/SMS Notifications:** For communication
 
-Service Cloud / Health Cloud for case management.
+---
 
-Workflows, Process Builder, and Flow for automation.
+## 🚀 Expected Deliverables
 
-Reports & Dashboards for hospital performance tracking.
+- A Salesforce application with customizations
+- Case & appointment management using Service Cloud/Health Cloud
+- Reports and dashboards for administrators
 
-Email/SMS Notifications for communication.
+---
 
-#🚀 Expected Deliverables
-
-A Salesforce application with customizations.
-
-Case & appointment management using Service Cloud/Health Cloud.
-
-Reports and dashboards for administrators.
-
-#✅ Outcome
+## ✅ Outcome
 
 A scalable, real-world healthcare solution that:
 
-Enhances patient experience.
-
-Improves hospital operational efficiency.
-
-Demonstrates Salesforce development, automation, and reporting skills.
+- Enhances patient experience  
+- Improves hospital operational efficiency  
+- Demonstrates Salesforce development, automation, and reporting skills  
