@@ -1,0 +1,38 @@
+Problem Statement: Salesforce-based Healthcare Appointment & Case Management System
+
+Objective:
+Develop a Salesforce application that streamlines patient appointment booking, case management, and hospital performance tracking using Salesforce Service Cloud and Health Cloud features.
+
+Requirements:
+
+1. Patient Management
+   - Patients can register and update their profiles (personal details, medical history, contact info).
+   - Patients can securely log in to book and manage appointments.
+
+2. Appointment Scheduling
+   - Patients can request appointments by selecting preferred date, time, and doctor specialization.
+   - System should automatically assign doctors based on specialization, availability, and workload.
+
+3. Case Management
+   - Each appointment generates a case that stores patient concerns, diagnosis, and treatment details.
+   - Doctors and hospital staff can update case records with progress notes and prescriptions.
+   - Escalation rules for critical cases.
+
+4. Notifications & Communication
+   - Patients receive automated notifications (email/SMS) for appointment confirmation, reminders, and updates.
+   - Doctors are notified of assigned appointments.
+
+5. Reports & Dashboards
+   - Hospital administrators can view reports on:
+       * Number of appointments by department/doctor.
+       * Average appointment resolution time.
+       * Patient satisfaction trends (through feedback surveys).
+       * Performance of doctors and hospital staff.
+
+Expected Deliverables:
+- A Salesforce application with custom objects, workflows, and automation.
+- Implementation of appointment and case management using Service Cloud/Health Cloud.
+- Reports and dashboards for hospital performance monitoring.
+
+Outcome:
+A scalable, real-world healthcare solution that enhances patient experience, improves hospital operations, and showcases expertise in Salesforce customization and automation.
